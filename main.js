@@ -32,7 +32,7 @@ $("#halfOfnum").click(function() {
     });
 
 
-function percentOf(number1, number2) {
+/*function percentOf(number1, number2) {
 	return number1 / number2 * 100;
 }
 
@@ -46,6 +46,6 @@ $("#percentage").click(function() {
         $("#number1").html(number1);
         $("#number2").html(number2);
          $("#percentage").html(result);
-    });
+    });*/
 
 })
